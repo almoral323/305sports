@@ -8,7 +8,7 @@ html {
 }
 
 .custom-img {
-  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fbasketballclub.home.blog%2Fauthor%2Fclarkpangan11%2F&psig=AOvVaw0X_3Fms9kF2jGBNYJfy8B0&ust=1680925315867000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCDxvTslv4CFQAAAAAdAAAAABAE);
+  background-image: url(https://i.pinimg.com/564x/19/74/a2/1974a2481a708482b0d417f94683e088.jpg);
 }
 
 .content {
@@ -23,3 +23,11 @@ html {
   color: white;
 
 }
+
+.shadow {
+  text-shadow:
+  -1px 0px 0px red,
+  1px 0px 0px red,
+  0px -1px 0px red,
+  0px 1px 0px red;color: white;
+  }
